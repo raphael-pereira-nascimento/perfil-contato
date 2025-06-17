@@ -4,17 +4,19 @@ Perfil de Contato
 
 License Forks Stars
 
-👨‍💻 Projeto
+👨‍💻 Projeto:
+
 Este projeto tem como objetivo criar uma página de contato simples e funcional, servindo como um dos primeiros passos para quem está iniciando no mundo da programação de sites. Através dele, eu irá praticar habilidades fundamentais de HTML e CSS, como estruturação de formulários, organização de conteúdo e aplicação de estilos visuais básicos.
 
 
-💡 Sobre o Projeto
+💡 Sobre o Projeto:
+
 O **Perfil de Contato** é um projeto virtual dedicado a divulgar e comercializar projetos de sites virtuais , como forma de valorizar a cultura local através da tecnologia. Este projeto visa mostrar uma plataforma web completa para divulgação de meu perfil, realização de pedidos e experiência do cliente online para futuros trabalhos.
 
 Acessar Site Projeto de Contato Clique aqui
 
 
-🚀 Tecnologias
+🚀 Tecnologias:
     
 
 HTML5 → Estruturação do projeto
@@ -23,7 +25,7 @@ JavaScript e jQuery → Funcionalidades interativas
 ScrollReveal → Animações suaves ao rolar a página
 Font Awesome → Para ícones e fontes
 
-🧩💻 Funcionalidades
+🧩💻 Funcionalidades:
 ✅ Design responsivo para diferentes dispositivos 📱💻
 ✅ Animações suaves ao rolar a página ✨
 ✅ Interface moderna e intuitiva 🎨
