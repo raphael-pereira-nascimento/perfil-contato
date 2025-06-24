@@ -111,7 +111,6 @@ Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma
 
 ## 📌 Melhorias Futuras
 
-- Implementação de um sistema de pedidos online de programação 🛒 
 - Animações adicionais para maior interatividade ✨
 
 <br>
